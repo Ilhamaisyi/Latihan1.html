@@ -1,0 +1,30 @@
+.container {
+    width: 600px;
+    margin: 0 auto ;
+}
+.navbar li {
+    list-style: none;
+    display: inline-block;
+}
+.navbar a {
+    text-decoration: none;
+    color: black;
+}
+img {
+    object-fit: cover;
+}
+.small {
+    margin-top: -15px;
+    font-size:small;
+    font-style: italic;
+}
+.navbar a:hover {
+    color: blue;
+}
+footer {
+    background-color: black;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    font-size: small;
+}
